@@ -1,6 +1,18 @@
-# **Project on "Data Analysis on Alcohol Consumption Among Students"**
+# **Project on "Data Analysis on Student Alcohol Consumption"**
 
-Attributes list :-
+## Team members:-
+
+1.Herleen Sanhotra
+2.Kanika Saini
+
+## Data source:- 
+https://www.kaggle.com/uciml/student-alcohol-consumption
+
+## Dataset:-
+
+The dataset contains 1044 records and 33 columns.
+
+### Attributes list :-
 
 The dataset contains 33 columns/attributes listed below:-
 
