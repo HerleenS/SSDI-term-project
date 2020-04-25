@@ -14,7 +14,7 @@ https://www.kaggle.com/uciml/student-alcohol-consumption
 
 The dataset contains 1044 records and 33 columns.
 
-* *Attributes list* * :-
+***Attributes list*** :-
 
 **school** - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
  <br />**sex** - student's sex (binary: 'F' - female or 'M' - male)
@@ -50,13 +50,13 @@ The dataset contains 1044 records and 33 columns.
 <br />**G2** - second period grade (numeric: from 0 to 20)
 <br />**G3** - final grade (numeric: from 0 to 20)
 
-Running instructions:
+## ***Running instructions:***
 
 We have implemented the project using Jupyter Notebook on Google Colab. It is a free resource. It makes changes in real time. 
 <br/>We have used python programming language. The notebook is stored as .ipynb file. 
 <br/>To run the notebook, 
 
-1. Download the zip file from github.
-<br/>2. Go to link provided for Google Colab.
+   1.Download the zip file from github.
+<br/>2.Go to link provided for Google Colab.
 </br>3.When you run the first code cell, choose the .zip file you downloaded.
 <br/>4.Thereafter, run each cell to see the output for each cell.
