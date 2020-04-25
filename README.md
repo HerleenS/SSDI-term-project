@@ -55,7 +55,7 @@ The dataset contains 1044 records and 33 columns.
 ## ***Running instructions:***
 
 We have implemented the project using Jupyter Notebook on Google Colab. It is a free resource. It makes changes in real time. 
-We have used python programming language. The notebook is stored as .ipynb file. Our datasets are in the zip file.
+We have used python programming language. Our datasets are in the zip file.
 <br/>To run the notebook, 
 
    1.Download the zip file from github.
