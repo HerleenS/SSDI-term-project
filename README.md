@@ -8,7 +8,9 @@
 ### Data source:- 
 https://www.kaggle.com/uciml/student-alcohol-consumption
 
+### Implementation on Google Colab:-
 
+https://colab.research.google.com/drive/1xLaMqsuY_OtEsIFYwxrF-jw3s6gpOdqw
 
 ### Dataset:-
 
