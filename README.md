@@ -3,7 +3,7 @@ Attributes list :-
 The dataset contains 33 columns/attributes listed below:-
 
 **school** - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
-**sex** - student's sex (binary: 'F' - female or 'M' - male)
+ <br />**sex** - student's sex (binary: 'F' - female or 'M' - male)
 **age** - student's age (numeric: from 15 to 22)
 **address** - student's home address type (binary: 'U' - urban or 'R' - rural)
 **famsize** - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 3)
