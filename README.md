@@ -60,5 +60,5 @@ We have used python programming language. Our datasets are in the zip file.
 
    1.Download the zip file from github.
 <br/>2.Go to link provided for Google Colab.
-</br>3.When you run the first code cell, choose the .zip file you downloaded from computer.
+</br>3.When you run the first code cell, choose the .zip file you downloaded in step 1 from computer.
 <br/>4.Thereafter, run each cell to see the output for each cell.
